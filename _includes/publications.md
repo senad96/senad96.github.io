@@ -11,7 +11,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Exploring the Connection between Robust and Generative Models</a></div>
     <div class="author"><strong>Yaoyao Liu</strong>, Senad Beadini, Iacopo Masi</div>
     <div class="periodical"><em>Ital-IA workshop AI for Cybersecurity <strong>(Ital-IA)</strong>, 2023.</em></div>
     <div class="links">
