@@ -20,4 +20,3 @@ I am passionate about taking on new challenges and exploring emerging technologi
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
