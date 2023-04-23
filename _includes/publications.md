@@ -12,7 +12,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Exploring the Connection between Robust and Generative Models</a></div>
-    <div class="author"><strong>Yaoyao Liu</strong>, Senad Beadini, Iacopo Masi</div>
+    <div class="author"><strong>Senad Beadini</strong>, Iacopo Masi</div>
     <div class="periodical"><em>Ital-IA workshop AI for Cybersecurity <strong>(Ital-IA)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2304.04033" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
