@@ -7,9 +7,9 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/inversion_c.png class="teaser img-fluid z-depth-1">
+    <img src="assets/img/inversion_c.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
   </div>
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Exploring the Connection between Robust and Generative Models</a></div>
     <div class="author"><strong>Yaoyao Liu</strong>, Senad Beadini, Iacopo Masi</div>
