@@ -1,29 +1,33 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="projects" style="margin: 2px 0px -15px;">Projects</h2>
 
-<div class="publications">
-<ol class="bibliography">
+<div class="projects">
+  <ol class="bibliography">
+    
+    <li>
+      <div class="project-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/project1.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">OpenCV</abbr>
+        </div>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title">Image Processing with OpenCV</div>
+          <div class="periodical"><em>Personal Project</em></div>
+        </div>
+      </div>
+    </li>
 
-<li>
-<div class="pub-row">
+    <li>
+      <div class="project-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/project2.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">Python</abbr>
+        </div>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title">Data Analysis with Python</div>
+          <div class="periodical"><em>University Project</em></div>
+        </div>
+      </div>
+    </li>
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/inversion_c.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Exploring the Connection between Robust and Generative Models</a></div>
-    <div class="author"><strong>Senad Beadini</strong>, Iacopo Masi</div>
-    <div class="periodical"><em>Ital-IA workshop, AI for Cybersecurity <strong>(Ital-IA)</strong>, 2023.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2304.04033" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:j_4YNr1Wd0EJ:scholar.google.com/&output=citation&scisdr=CpthIhA2EImQ2Ns-ayk:AJ9-iYsAAAAAZEU4cylJ_yGoCdjvFz02Qo0HnE8&scisig=AJ9-iYsAAAAAZEU4c026vJkjs37Jv_JFV3PUfto&scisf=4&ct=citation&cd=-1&hl=it" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-    </div>
-  </div>
-</div>
-</li>
-  
-<br>
-
-</ol>
+  </ol>
 </div>
