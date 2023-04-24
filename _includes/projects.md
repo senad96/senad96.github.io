@@ -15,7 +15,7 @@
     <div class="author"><strong>Senad Beadini</strong></div>
     <div class="links">
       <a href="https://github.com/senad96/Group-Equivariant-Networks/blob/master/main.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+      <strong><i style="color:#e74d3c"></i></strong>
     </div>
   </div>
 </div>
